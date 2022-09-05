@@ -1,0 +1,22 @@
+.tradgard1 {
+    background-image: url("images/tradgard1.jpg");
+}
+.tradgard2 {
+    background-image: url("images/tradgard2.jpg");
+}
+.tradgard3 {
+    background-image: url("images/tradgard3.jpg");
+}
+.tradgard4 {
+    background-image: url("images/tradgard4.jpg");
+}
+
+p {
+    color: white;
+}
+
+div {
+    padding: 50px;
+    margin-bottom: 10px;   
+    border: 3px lightseagreen solid;  
+}
